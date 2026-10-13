@@ -1,0 +1,60 @@
+body {
+  font-size:           small;
+  font-family:         Verdana, Helvetica, Arial, sans-serif;
+  line-height:         1.6em;
+}
+
+#mybox1 {
+	line-height: 1.9em;
+	font-style: normal;
+	color: #000000;
+	background-color: #FFCC00;
+	padding: 25px;
+	margin: 30px;
+	float: left;
+	height: 250px;
+	width: 250px;
+	font-family: "Lora", sans-serif;
+	text-shadow: 25px 25px 1px #30FFD6;
+	outline: 5px solid #FF3333;
+	-moz-column-count: 3;
+-moz-column-gap: 2px;
+-webkit-column-count: 3;
+-webkit-column-gap: 2px;
+column-count: 3;
+column-gap: 2px;
+}
+
+#mybox2 {
+	line-height: 1.9em;
+	font-style: normal;
+	color: #000000;
+	background-color: #FFCC00;
+	padding: 25px;
+	margin: 30px;
+	float: left;
+	height: 250px;
+	width: 250px;
+font-family: "Oswald", sans-serif;
+	box-shadow: inset 22px 22px 22px 22px rgba(34, 44, 55, 0.33);
+	text-shadow: 4px 4px 12px #1C3AFF;
+	outline: 33px groove #FF3333;
+}
+
+#mybox3 {
+	line-height: 1.9em;
+	font-style: normal;
+	color: #000000;
+	background-color: #FFCC00;
+	padding: 25px;
+	margin: 30px;
+	float: left;
+	height: 250px;
+	width: 250px;
+	font-family: "Roboto", sans-serif;
+	-webkit-box-shadow: 10px 10px 10px 10px rgba(50,30,22,1);
+box-shadow: 10px 10px 10px 10px rgba(50,30,22,1);
+	text-shadow: 1px 1px 1px #FFE669;
+	outline: 4px double #0011FF;
+outline-offset: 4px;
+}
